@@ -4,7 +4,7 @@ I'm a Full Stack Web Developer especialy MERN stack. I Spend most of time coding
 
 :mailbox: Reach me out!
 
-[![Mail Badge](https://img.shields.io/badge/-dev.abdelrazek-4267B2?style=flat&labelColor=4267B2&logo=facebook&logoColor=white)](https://www.facebook.com/dev.abdelrazek) [![Linkedin Badge](https://img.shields.io/badge/-Abdelrazek-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrazek-ali)  [![Mail Badge](https://img.shields.io/badge/-dev.abdelrazek-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dev.abdelrazek@gmail.com) [![Whats Badge](https://img.shields.io/badge/-+201155596710-25d366?style=flat&labelColor=25d366&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+201155596710)
+[![Mail Badge](https://img.shields.io/badge/-dev.abdelrazek-4267B2?style=flat&labelColor=4267B2&logo=facebook&logoColor=white)](https://www.facebook.com/dev.abdelrazek) [![Linkedin Badge](https://img.shields.io/badge/-Abdelrazek-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrazek-ali)  [![Mail Badge](https://img.shields.io/badge/-dev.abdelrazek-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dev.abdelrazek@gmail.com) [![Whats Badge](https://img.shields.io/badge/-+201155596710-57ab51?style=flat&labelColor=57ab51&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+201155596710)
 
 <!-- TODO: Add last video link -->
 
@@ -21,7 +21,7 @@ I'm a Full Stack Web Developer especialy MERN stack. I Spend most of time coding
 
 <br />
 <br />
-<!--  
+  
 #### Business
 - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
 
