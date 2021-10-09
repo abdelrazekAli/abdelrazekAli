@@ -22,6 +22,7 @@ Full Stack Developer especialy MERN stack. I Spend most of time coding outstandi
 <br />
 <br />
   
+<!--   
 #### Business
 - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
 
