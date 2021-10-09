@@ -8,7 +8,7 @@ Full Stack Developer especialy MERN stack. I Spend most of time coding outstandi
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently work Remotly
+- 🔭 I currently work Remotly
 - 📫 How to reach me: dev.abdelrazek@gmail.com
 
 #### Top Technologies
