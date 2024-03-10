@@ -8,7 +8,7 @@ Software Engineer with a deep passion for computer science, problem solving, and
 <!-- - 🔭 I currently work Remotly -->
 ### :mailbox: Let's Connect!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Abdelrazek-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrazek-ali) [![Mail Badge](https://img.shields.io/badge/-dev.abdelrazek-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dev.abdelrazek@gmail.com)   [![Whats Badge](https://img.shields.io/badge/-+201155596710-57ab51?style=flat&labelColor=57ab51&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+201155596710)
+[![Linkedin Badge](https://img.shields.io/badge/-Abdelrazek-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrazek-ali) [![Mail Badge](https://img.shields.io/badge/-dev.abdelrazek-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dev.abdelrazek@gmail.com)   [![Whats Badge](https://img.shields.io/badge/-+201155596710-57ab51?style=flat&labelColor=57ab51&logo=whatsapp&logoColor=white)](https://wa.me/+201155596710)
 
 
 ### 🔭 Top Technologies
