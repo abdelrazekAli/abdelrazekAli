@@ -1,11 +1,9 @@
 # Hello there, I'm Abdelrazek <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25" alt="hi">
 
 Software Engineer with over 3 years of experience designing, developing, and maintaining robust software solutions.<br>
-Skilled in full-stack web development, backend, and frontend, with the ability to quickly learn and adapt to new technologies and domains.
+Skilled in full-stack web development, including backend and frontend, with the ability to quickly learn and adapt to new technologies and domains.
 
-<!-- TODO: Add last video link -->
-
-<!-- - 🔭 I currently work Remotly -->
+<!-- - 🔭 I currently work Remotely -->
 ### :mailbox: Let's Connect!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Abdelrazek-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrazek-ali) [![Mail Badge](https://img.shields.io/badge/-dev.abdelrazek-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dev.abdelrazek@gmail.com)   [![Whats Badge](https://img.shields.io/badge/-+201092018531-57ab51?style=flat&labelColor=57ab51&logo=whatsapp&logoColor=white)](https://wa.me/+201092018531)
