@@ -15,11 +15,7 @@ Skilled in full-stack web development, including backend and frontend, with the 
 <!--  [![Azure Badge](https://img.shields.io/badge/-Azure-008AD7?style=for-the-badge&labelColor=black&logo=MicrosoftAzure&logoColor=008AD7)](#) -->
 
 
-<br />
-<br />
-  
-<!--   
-#### Business
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+### 👨‍💼 For Business
+- :paperclip: [My Resume/CV](https://github.com/user-attachments/files/16323947/Abdelrazek_Software_Engineer.pdf)
 
 
