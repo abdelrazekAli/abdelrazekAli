@@ -17,6 +17,6 @@ I'm also always open to new opportunities all over the world, so don't hesitate 
 
 
 ### For Business
-- :paperclip: [My Resume/CV](https://github.com/user-attachments/files/16352482/Abdelrazek_Software_Engineer.pdf)
+- :paperclip: [My Resume/CV](https://github.com/user-attachments/files/16646618/Abdelrazek_Software_Engineer.pdf)
 
 
