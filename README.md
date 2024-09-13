@@ -17,6 +17,6 @@ I'm also always open to new opportunities worldwide, so don't hesitate to contac
 
 
 ### For Business
-- :paperclip: [My Resume/CV](https://github.com/user-attachments/files/16999951/Abdelrazek_BackendDeveloper_CV.pdf)
+- :paperclip: [My Resume/CV](https://github.com/user-attachments/files/17000150/Abdelrazek_BackendDeveloper_CV.pdf)
 
 
