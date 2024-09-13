@@ -1,7 +1,7 @@
 # Hello there, I'm Abdelrazek <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25" alt="hi">
 
-Full stack developer focusing on backend development with over 3 years of experience in designing and developing robust web solutions.<br>
-Proficient in building efficient RESTful APIs, optimizing database performance, and implementing cloud-based architectures to enhance application scalability. Additionally, I bring extensive hands-on experience in frontend development and its frameworks to create responsive and user-friendly interfaces. With the ability to quickly learn and adapt to new technologies and domains.<br>
+Full stack developer focusing on backend development with 3+ years of experience in designing and developing robust web solutions.<br>
+Proficient in building efficient RESTful APIs, optimizing database performance, and implementing cloud-based architectures to enhance applications scalability. Additionally, I bring extensive hands-on experience in frontend development and its frameworks to create responsive and user-friendly interfaces. With the ability to quickly learn and adapt to new technologies and domains.<br>
 I'm also always open to new opportunities worldwide, so don't hesitate to contact me.
 
 <!-- - 🔭 I currently work Remotely -->
@@ -17,6 +17,6 @@ I'm also always open to new opportunities worldwide, so don't hesitate to contac
 
 
 ### For Business
-- :paperclip: [My Resume/CV](https://github.com/user-attachments/files/16734174/Abdelrazek_Backend_Developer.pdf)
+- :paperclip: [My Resume/CV](https://github.com/user-attachments/files/16999951/Abdelrazek_BackendDeveloper_CV.pdf)
 
 
