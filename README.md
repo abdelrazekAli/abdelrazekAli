@@ -1,6 +1,6 @@
 # Hello there, I'm Abdelrazek <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25" alt="hi">
 
-- Software Engineer with 3+ years of experience in developing scalable web solutions and RESTful APIs.
+- Software Engineer experienced in developing scalable web solutions and RESTful APIs.
 Proficient in backend development, database optimization, and cloud-based architectures.<br>
 - Additionally, I have extensive experience in frontend development and its libraries to create responsive and user-friendly interfaces, with the ability to quickly adapt to new technologies and domains.<br>
 - Throughout my career, I’ve worked in both remote and on-site environments to deliver high-quality software solutions using modern development tools and practices like Agile methodology.<br>
@@ -17,6 +17,6 @@ Proficient in backend development, database optimization, and cloud-based archit
 
 
 ### For Business
-- :paperclip: [My Resume/CV](https://github.com/user-attachments/files/17556880/Abdelrazek_SoftwareEngineer_CV.pdf)
+- :paperclip: [My Resume/CV](https://github.com/user-attachments/files/17869796/Abdelrazek_SoftwareEngineer_CV.pdf)
 
 
